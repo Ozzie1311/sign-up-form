@@ -190,5 +190,9 @@ body {
   margin: 0;
 }
 
+ .input-error {
+  border-color: red !important; 
+}
+
 
 
